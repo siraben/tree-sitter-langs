@@ -199,3 +199,9 @@
 	branch = main
 	update = none
 	ignore = dirty
+[submodule "repos/promela"]
+	path = repos/promela
+	url = https://github.com/siraben/tree-sitter-promela
+	branch = master
+    update = none
+    ignore = dirty

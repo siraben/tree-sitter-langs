@@ -123,6 +123,7 @@ See `tree-sitter-langs-repos'."
                 (ocaml-mode      . ocaml)
                 (php-mode        . php)
                 (prisma-mode     . prisma)
+                (promela-mode    . promela)
                 (python-mode     . python)
                 (pygn-mode       . pgn)
                 (rjsx-mode       . javascript)
